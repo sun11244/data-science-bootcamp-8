@@ -16,3 +16,5 @@ I learn a lot
 - python
 - python for DA
 - dashboard
+
+you can find me on linkedin https://www.linkedin.com/in/sirawit-tantikul-69a81522b/
